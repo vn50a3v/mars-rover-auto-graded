@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "browserify": "^16.5.2",
     "jasmine": "^3.4.0",
     "karma": "^5.2.1",
     "karma-browserify": "^7.0.0",
