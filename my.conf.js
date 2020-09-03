@@ -30,7 +30,7 @@ module.exports = function(config) {
 		'**/*[sS]pec.js': [ 'browserify' ]
 	 },
 	 
-	 plugins: ['karma-jasmine', 'karma-browserify'],
+	 plugins: ['karma-jasmine', 'karma-browserify', 'karma-firefox-launcher'],
 
 
     // test results reporter to use
@@ -63,7 +63,7 @@ module.exports = function(config) {
 
     // Continuous Integration mode
     // if true, Karma captures browsers, runs the tests and exits
-    singleRun: true,
+    singleRun: false,
 
     // Concurrency level
     // how many browser should be started simultaneous
