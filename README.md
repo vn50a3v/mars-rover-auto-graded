@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/LaunchCodeEducation/mars-rover-auto-graded.svg?branch=master)](https://travis-ci.org/LaunchCodeEducation/mars-rover-auto-graded)
+
 This assignment is completed and turned in via Repl.it. These files can also be run in your terminal.
 
 How to run these outside of Repl.it
