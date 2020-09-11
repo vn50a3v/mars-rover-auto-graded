@@ -9,7 +9,7 @@ describe("Command class", function() {
         new Command();
       },
       {
-        message: 'Command type required.'
+        message: 'Command type requireds.'
       }
     );
   });
